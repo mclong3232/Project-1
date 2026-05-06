@@ -6,7 +6,7 @@
  * This program prompts the user for two input values to compute the average of the two values.
  *
  * @author Michael Long and Kirby Gagne
- * @date 8/29/2016
+ * @date 8/29/2026
  * @info Course COP4634
  */
 
