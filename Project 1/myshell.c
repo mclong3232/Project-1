@@ -10,7 +10,6 @@
  * @info Course COP4634
  */
 
-
 /* test program with more than this many tokens for input */
 #define MAXARGS 32
 
